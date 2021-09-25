@@ -1,5 +1,3 @@
-# hello-world
-guide in git
 
 hello everyone
 
